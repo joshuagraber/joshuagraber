@@ -1,6 +1,5 @@
 Hi, I’m Joshua. 
 
-I'm a self-taught JavaScript/Typescript developer.  
-Currently learning Python for the purpose of getting into Machine Learning & Data Science.
+I'm a self-taught JavaScript/Typescript developer.
 
-Let's talk: Hit me up at jdg@joshuadgraber.com
+If you want to collaborate, let's talk: Hit me up at jdg@joshuadgraber.com
