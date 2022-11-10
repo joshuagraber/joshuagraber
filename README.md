@@ -1,7 +1,5 @@
-Self-taught dev, working in React. Writer and editor. Former teacher.
+Self-taught fullstack dev, working primarily in React. Writer and editor. Former teacher.
 
 📋 JavaScript & Typescript, React, Remix, Sass, etc.
 
-🤓 Currently learning: Backend development with node.js, Portuguese
-
-👽 Angling to learn next: Python and data science.
+🤓 Currently learning: Portuguese, pickleball, and data science with Python
