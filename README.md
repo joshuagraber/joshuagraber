@@ -1,4 +1,4 @@
-Self-taught fullstack dev, working primarily in React. Writer and editor. Former teacher.
+Self-taught fullstack dev, working primarily in React. Writer and editor. Former adjunct professor.
 
 📋 JavaScript & Typescript, React, Remix, Sass, etc.
 
