@@ -1,4 +1,3 @@
-# Joshua D. Graber
 Full stack engineer. Sometime writer.
 
 
