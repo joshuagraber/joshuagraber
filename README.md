@@ -10,6 +10,9 @@ Full stack engineer. Sometime writer.
 ## Runtimes
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Server frameworks
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
 ## DBs and ORMs
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -17,6 +20,7 @@ Full stack engineer. Sometime writer.
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## Client frameworks (on frameworks on frameworks...)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo-GraphQL?style=for-the-badge&logo=apollographql&color=rgb(19%2C%2034%2C%2042))
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Remix](https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
