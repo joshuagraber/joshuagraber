@@ -1,6 +1,5 @@
 Full stack engineer. Sometime writer.
 
-
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,6 +29,11 @@ Full stack engineer. Sometime writer.
 ### Architecture
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Testing
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-rgb(30%2C%2030%2C%2032)?style=for-the-badge&logo=vitest)
+
+
 ### Tooling
 ![iTerm](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -37,11 +41,8 @@ Full stack engineer. Sometime writer.
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-## CI/CD
-![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-
 
 <!-- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joshuagraber&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joshuagraber&count_private=true&theme=dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuagraber&langs_count=5&theme=tokyonight)]()
 -->
