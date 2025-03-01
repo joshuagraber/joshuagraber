@@ -1,5 +1,6 @@
-Full stack engineer. Sometime writer.
+I build software, mostly in TypeScript.
 
+<!-- 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,8 +42,6 @@ Full stack engineer. Sometime writer.
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-
-<!-- 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=joshuagraber&count_private=true&theme=dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuagraber&langs_count=5&theme=tokyonight)]()
 -->
